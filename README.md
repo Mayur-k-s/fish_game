@@ -59,5 +59,3 @@ python hey_thatsmyfish.py
 ## 🏆 Winning condition
 The game ends when neither player can move. The player with the highest total fish count wins!
 
----
-*Created by [Mayur-k-s](https://github.com/Mayur-k-s)*
